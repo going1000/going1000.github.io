@@ -7,6 +7,8 @@ keywords:
 description: 
 ---
 
+![test image]({{ site.url }}/assets/images/test.png)
+
 ## 关于 creative 品牌
 
 作者最早接触creative的耳机大约是在2009，EP-630。
