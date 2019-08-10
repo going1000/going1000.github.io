@@ -7,7 +7,6 @@ keywords:
 description: 
 ---
 
-![test image]({{ site.url }}/assets/images/test.png)
 
 ## 关于 creative 品牌:
 
@@ -46,7 +45,7 @@ fiio btr3 + akg n30【这个是主力】
 jbl t280bt【这个出门偶尔听，会比有线方便】
 creative outlier air
 
-
+![装备]({{ site.url }}/assets/images/creative_outlier_air/combination.jpg)
 
 【下面的主观听感的前端是iphone x。使用网易云音乐、qq音乐的无损测试】最好听的是 fiio btr3 + akg n30 组合。jbl t280bt 和 creative outlier air 素质同级别，调音方向不同。t280bt的佩戴、低音优于 outlier air。outlier air 的人声更近，无线易用是它最大的亮点。
 
