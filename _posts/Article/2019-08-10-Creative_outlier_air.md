@@ -1,9 +1,9 @@
 ---
 layout: post                                   
 title: creative outlier air 评测
-category: 耳机                           
-tags: [耳机]
-keywords: 耳机
+category: 生活                           
+tags: []
+keywords: 
 description: 
 ---
 
