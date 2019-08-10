@@ -7,7 +7,9 @@ keywords:
 description: 
 ---
 
-## 关于 creative 品牌
+![test image]({{ site.url }}/assets/images/test.png)
+
+## 关于 creative 品牌:
 
 作者最早接触creative的耳机大约是在2009，EP-630。
 2011-10-01 购入的 Aurvana Live！是作者第一个大耳机
