@@ -1,7 +1,7 @@
 ---
 layout: post                                   
 title: osx 使用PROXY上网
-category: Tech
+category: tech
 tags: [osx,proxy]
 keywords: osx,proxy
 description: 
